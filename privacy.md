@@ -1,33 +1,34 @@
-## SGHawker Privacy Policy
+## 速查圣经隐私政策
 
-SGHawker is a Free app. This SERVICE is provided by SGHawker at no cost and is intended for use as is.
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+速查圣经是一个免费的应用程序。本服务是免费提供的。
+如果有人决定使用我们的服务，本页面用于通知访问者有关我的收集、使用和披露个人信息的政策。
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+如果您选择使用我们的服务，那么您就同意收集和使用与本政策有关的信息。我们收集的个人信息将用于提供和改进服务。除本隐私政策所述情况外，我们不会与任何人使用或分享您的信息。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at SGHawker unless otherwise defined in this Privacy Policy.
+除非本隐私政策另有规定，本隐私政策中使用的术语与我们的条款和条件中的含义相同，可在SGHawker网站上查阅。
 
-* Information Collection and Use
+* 信息的收集和使用
 
-While using our Service, We will NOT require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by us in any way.
-The app does NOT use third party services that may collect information used to identify you.
+在使用我们的服务时，我们将不要求您向我们提供某些个人身份信息。我们所要求的信息将保留在您的设备上，我们不会以任何方式收集。
+本应用程序不使用可能收集用于识别您的信息的第三方服务。
 
-* Log Data
+* 日志数据
 
-We want to inform you that whenever you use my Service,  We will NOT collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+我们想告知您，当您使用我的服务时，我们将不会在您的手机上收集数据和信息（通过第三方产品），称为日志数据。该日志数据可能包括您的设备互联网协议（"IP"）地址、设备名称、操作系统版本、利用我的服务时的应用程序配置、您使用服务的时间和日期以及其他统计数据等信息。
 
-* Security
+* 安全
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+我们重视您向我们提供个人信息的信任，因此我们努力使用商业上可接受的方式来保护您的信息。但请记住，在互联网上的传输方法或电子存储方法都不是100%安全和可靠的，我们不能保证其绝对安全。
 
-* Links to Other Sites
+* 与其他网站的链接
 
-This Service do NOT contain links to other sites. 
+本服务不包含其他网站的链接。
 
-* Changes to This Privacy Policy
+* 本隐私政策的变更
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+我们可能会不时地更新我们的隐私政策。因此，我们建议你定期查看本页面的任何变化。我们将通过在本页面上发布新的隐私政策来通知您任何变化。这些变化在本页面上公布后立即生效。
 
-* Contact Us
+* 联系我们
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sghawker2022@gmail.com
+如果您对我的隐私政策有任何问题或建议，请不要犹豫，与我联系：sghawker2022@gmail.com
+
